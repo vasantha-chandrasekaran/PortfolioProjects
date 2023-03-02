@@ -186,4 +186,4 @@ WHERE dea.continent IS NOT NULL;
 
 SELECT *
 From `Covid data exploration`.`PercentPopulationVaccinated`;
-#Error Code: 1050. Table 'PercentPopulationVaccinated' already exists
+
